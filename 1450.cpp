@@ -30,4 +30,5 @@ int main(){
     for(int i=0;i<n;i++)
         cin>>it[i];
     pack(it,0);
+    cout<<cnt;
 }
