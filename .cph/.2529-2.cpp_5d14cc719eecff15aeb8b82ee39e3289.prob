@@ -1,0 +1,1 @@
+{"name":"Local: 2529-2","url":"/workspaces/cpmastery/2529-2.cpp","tests":[{"id":1723876521816,"input":"9\n> < < < > > > < <","output":"9567843012\n1023765489"},{"id":1723876776697,"input":"2\n< >","output":"897\n021"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/cpmastery/2529-2.cpp","group":"local","local":true}
